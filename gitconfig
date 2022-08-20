@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = wing-yee@hotmail.co.uk
+	name = WingYee Lau
